@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flights>
+    <day_of_week>4</day_of_week>
+    <dep_time>1729</dep_time>
+    <dep_delay>-251</dep_delay>
+    <arr_time>547</arr_time>
+    <arr_delay>0</arr_delay>
+    <cancelled>0</cancelled>
+    <diverted>1</diverted>
+    <air_time>0</air_time>
+    <distance>2486</distance>
+</flights>
